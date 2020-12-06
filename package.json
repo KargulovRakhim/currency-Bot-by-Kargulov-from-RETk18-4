@@ -1,0 +1,17 @@
+{
+  "name": "currency-rates-bot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
